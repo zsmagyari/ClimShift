@@ -1,6 +1,8 @@
 # ClimShift
 **Climate Shift analysis with R**
 
+The purpose of this application is to perform climate shift analysis on E-OBS dataset using similarity index.
+
 External package requirements:
 - shiny
 - shinyFiles
