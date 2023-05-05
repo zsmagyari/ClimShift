@@ -11,7 +11,9 @@ External package requirements:
 - shinyWidgets
 
 To download and run in R environment you should type the following commands
+
 library(shiny)
+
 runGitHub('ClimShift','zsmagyari', destdir="*your_temporary_folder*", ref="main")
 
 where *your_temporary_folder* is the full folder reference where you want to store teh application.
