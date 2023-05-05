@@ -18,6 +18,8 @@ library(shiny)
 
 runGitHub('ClimShift','zsmagyari', destdir="your_temporary_folder", ref="main")
 ```
-where ***your_temporary_folder*** is the full folder reference where you want to store teh application.
-Sample data is available in smapledata folder.
-More about the application you can find in the tutorial folder.
+where ***your_temporary_folder*** is the full folder reference where you want to store the application.
+
+Sample data is available in sampledata folder.
+
+You can find more about the application in the ***tutorial folder***.
