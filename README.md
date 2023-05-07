@@ -34,5 +34,6 @@ Sample data is available in sampledata folder. There's a short demon video in th
 
   1. Choose the data folder using *Choose folder* button.
 
-*Remarks:*
+- *Remarks:*
+        
         - *if all four files can be identified by the toolbox the other controls will be enabled.*
