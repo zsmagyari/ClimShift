@@ -6,9 +6,9 @@ Currently ClimShift is in early development stage working on E-OBS NetCDF datase
 **Preliminary steps**
 
     
-  1. - Data preparation: four NetCDF files has to be present in data folder with a chosen prefix template followed by
+  1.- Data preparation: four NetCDF files has to be present in data folder with a chosen prefix template followed by
 
-  2. - R library preparation: the folowing external package have to be installed:
+  2.- R library preparation: the folowing external package have to be installed:
               - shiny
               - shinyFiles
               - leaflet
@@ -17,7 +17,7 @@ Currently ClimShift is in early development stage working on E-OBS NetCDF datase
               - raster
               - shinyWidgets
 
-  3. -	Download and launch the toolbox from GitHub inside R Studio
+  3.- Download and launch the toolbox from GitHub inside R Studio
 
 ```R
 library(shiny)
