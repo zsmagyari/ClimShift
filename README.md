@@ -39,6 +39,6 @@ Sample data is available in sampledata folder. There's a short demon video in th
             - if all four files can be identified by the toolbox the other controls will be enabled
             - starting and ending years will be set automatically to the lowest and highest year value from the NetCDF file. the spatial extent of the NetCDF datafiles are shown on the maps 
             - base location coordinates are set to the center of the analysis area.
- 3.	Set the base location and the desired time interval for base and analysis period
+ 3. Set the base location and the desired time interval for base and analysis period
 
-		- Remarks
+        - Remarks
