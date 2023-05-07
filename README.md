@@ -41,4 +41,7 @@ Sample data is available in sampledata folder. There's a short demon video in th
             - base location coordinates are set to the center of the analysis area.
  3. Set the base location and the desired time interval for base and analysis period
 
-     - Remarks 
+     - Remarks
+        - setting values outside time interval will disable the Analyze button
+        - starting and ending month are considered as continuous time interval for each year. ex. Setting 3 and 5 means that data aggregation period will be March – May for each year. To work with full years set 1 and 12 for starting and ending months respectively
+        - the base location can be set interactively with mouse click or entering the values in input fields. Values outside the analysis area will disable the Analyze button. 
