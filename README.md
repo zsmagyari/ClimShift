@@ -4,6 +4,8 @@
 Currently ClimShift is in early development stage working on E-OBS NetCDF dataset.
 
 **Preliminary steps**
+
+    1
     
     1 Data preparation: four NetCDF files has to be present in data folder with a chosen prefix template followed by
 
