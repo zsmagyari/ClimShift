@@ -1,4 +1,0 @@
-Features to be added:
-- drawing a rectangle showing the covered area
-- marking on the map the study location when it's specified by coordinate values in the edit fields
-- checking weather the study location is inside the study area
