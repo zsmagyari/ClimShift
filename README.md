@@ -44,7 +44,7 @@ Sample data is available in sampledata folder. There's a short demon video in th
      - Remarks
         - ##### setting values outside time interval will disable the Analyze button
         - ##### starting and ending month are considered as continuous time interval for each year. ex. Setting 3 and 5 means that data aggregation period will be March – May for each year. To work with full years set 1 and 12 for starting and ending months respectively
-        - ##### the base location can be set interactively with mouse click or entering the values in input fields. Values outside the analysis area will disable the Analyze button. 
+        - ###### the base location can be set interactively with mouse click or entering the values in input fields. Values outside the analysis area will disable the Analyze button. 
 
 4. Launch the analysis with Analyze button. The progress bar will indicate the processing stage.
 
