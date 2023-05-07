@@ -4,7 +4,7 @@
 Currently ClimShift is in early development stage working on E-OBS NetCDF dataset.
 
 **Preliminary steps**
-    1.	Data preparation: four NetCDF files has to be present in data folder with a chosen prefix template followed by _tn, _tx, _tg and _rr abbreviations containing the daily minimum, maximum and mean temperatures as well as the daily precipitation amount. All four data files should have the same spatial extent.
+    1. Data preparation: four NetCDF files has to be present in data folder with a chosen prefix template followed by
 
     2. R library preparation: the folowing external package have to be installed:
               - shiny
