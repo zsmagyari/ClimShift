@@ -1,3 +1,5 @@
+margin-top: 3px;
+margin-bottom: 3px;
 # ClimShift - a toolbox for climate shift analysis
 **Climate Shift analysis with R**
 
