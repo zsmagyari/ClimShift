@@ -36,4 +36,4 @@ Sample data is available in sampledata folder. There's a short demon video in th
 
 - *Remarks:*
         
-        - *if all four files can be identified by the toolbox the other controls will be enabled.*
+    - -	if all four files can be identified by the toolbox the other controls will be enabled.
