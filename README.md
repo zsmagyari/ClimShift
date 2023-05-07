@@ -31,7 +31,7 @@ Sample data is available in sampledata folder. There's a short demon video in th
 
 **Analysis steps**
 
-  1. Choose the data folder using *Choose folder* button.   
+  1. Choose the data folder using *Choose folder* button. 
   2. sdadasdasda  
   3. Enter the file name prefix template in the Filename template input box.  
         - ##### Remarks
