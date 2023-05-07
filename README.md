@@ -52,5 +52,6 @@ Sample data is available in sampledata folder. There's a short demon video in th
 
 6. Save the results. Three files will be created in the data folder, two raster files with the base and analysis period similarity index and text file with the area values.
 
-  - Remarks 
- - 
+       - Remarks
+            - 
+
