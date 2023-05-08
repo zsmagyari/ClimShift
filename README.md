@@ -55,7 +55,9 @@ The toolbox will be launched inside your browser. Sample data is available in **
 **5.** Inspect the result show on the map both for base and analysis period as well as the areas with highest similarity.
 
 **6.** Save the results. Three files will be created in the data folder, two raster files with the base and analysis period similarity index and text file with the area values.
-     - ##### Remarks
-        - ###### the names of saved files contain the file template name, the base location coordinates the base period year and moth and the analysis period year and month
-        - ###### raster layers are saved in *grd/gri* format, area values in txt file
+
+   - ##### Remarks   
+     
+     - ###### the names of saved files contain the file template name, the base location coordinates the base period year and moth and the analysis period year and month  
+       - ###### raster layers are saved in *grd/gri* format, area values in txt file
 
