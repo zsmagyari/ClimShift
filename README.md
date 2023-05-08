@@ -30,7 +30,7 @@ runGitHub('ClimShift','zsmagyari', destdir="your_temporary_folder", ref="main")
 ```
 where ***your_temporary_folder*** is the full folder reference where you want to store the application.
 
-The toolbox will be lauched inside your browser. Sample data is available in sampledata subfolder. There's a short demo video in the ***tutorial folder***.
+The toolbox will be lauched inside your browser. Sample data is available in sampledata subfolder. There's a short demo video in the ***tutorial*** folder.
 
 
 **Analysis steps**
