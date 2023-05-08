@@ -10,7 +10,7 @@ Currently ClimShift is in early development stage working on E-OBS NetCDF datase
   
   ![alt text](https://github.com/zsmagyari/ClimShift/blob/main/datafiles.png?raw=true)
   
-  2. R library preparation: the folowing external package have to be installed:
+  2. R library preparation: the following external package have to be installed:
           
        - shiny            
        - shinyFiles            
@@ -30,7 +30,7 @@ runGitHub('ClimShift','zsmagyari', destdir="your_temporary_folder", ref="main")
 ```
 where ***your_temporary_folder*** is the full folder reference where you want to store the application.
 
-The toolbox will be lauched inside your browser. Sample data is available in sampledata subfolder. There's a short demo video in the ***tutorial*** folder.
+The toolbox will be launched inside your browser. Sample data is available in sampledata subfolder. There's a short demo video in the ***tutorial*** folder.
 
 
 **Analysis steps**
@@ -40,7 +40,7 @@ The toolbox will be lauched inside your browser. Sample data is available in sam
         - ##### Remarks
             - ###### if all four files can be identified by the toolbox the other controls will be enabled   
             - ###### starting and ending years will be set automatically to the lowest and highest year value from the NetCDF file. the spatial extent of the NetCDF datafiles are shown on the maps    
-            - ###### base location coordinates are set to the center of the analysis area.     
+            - ###### base location coordinates are set to the centre of the analysis area.     
  3. Set the base location and the desired time interval for base and analysis period
      - ##### Remarks
         - ###### setting values outside time interval will disable the Analyze button
