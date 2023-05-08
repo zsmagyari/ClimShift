@@ -38,8 +38,8 @@ The toolbox will be launched inside your browser. Sample data is available in **
   **1.** Choose the data folder using *Choose folder* button. 
   
   **2.** Enter the file name prefix template in the *Filename template* input box. 
-    
-    - ##### Remarks
+  
+  - ##### Remarks
         
             - ###### if all four files can be identified by the toolbox the other controls will be enabled   
             - ###### starting and ending years will be set automatically to the lowest and highest year value from the NetCDF file. the spatial extent of the NetCDF datafiles are shown on the maps    
