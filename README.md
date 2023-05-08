@@ -59,5 +59,5 @@ The toolbox will be launched inside your browser. Sample data is available in **
    - ##### Remarks   
      
      - ###### the names of saved files contain the file template name, the base location coordinates the base period year and moth and the analysis period year and month  
-       - ###### raster layers are saved in *grd/gri* format, area values in txt file
+     - ###### raster layers are saved in *grd/gri* format, area values in txt file
 
