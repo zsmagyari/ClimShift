@@ -36,6 +36,7 @@ The toolbox will be launched inside your browser. Sample data is available in **
 **Analysis steps**
 
   **1.** Choose the data folder using *Choose folder* button. 
+  
   **2.** Enter the file name prefix template in the *Filename template* input box.  
         - ##### Remarks
             - ###### if all four files can be identified by the toolbox the other controls will be enabled   
