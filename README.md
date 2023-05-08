@@ -4,7 +4,7 @@
 Developing team: Zsolt **MAGYARI-SÁSKA**,  Adina-Eliza **CROITORU**, Csaba **HORVÁTH**, Ștefan **DOMBAY** from Babeș-Bolyai Universiy, Faculty of Geography, Romania  
 
 Currently ClimShift is in early development stage working on E-OBS NetCDF dataset. 
-
+ 
 **Preliminary steps**
 
     
