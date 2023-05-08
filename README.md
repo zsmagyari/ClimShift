@@ -38,14 +38,14 @@ The toolbox will be launched inside your browser. Sample data is available in **
   **1.** Choose the data folder using *Choose folder* button. 
   
   **2.** Enter the file name prefix template in the *Filename template* input box. 
-  
-  - ##### Remarks  
-  
-            - ###### if all four files can be identified by the toolbox the other controls will be enabled   
-            - ###### starting and ending years will be set automatically to the lowest and highest year value from the NetCDF file. the spatial extent of the NetCDF datafiles are shown on the maps    
+
+  - ##### Remarks   
+        - ###### if all four files can be identified by the toolbox the other controls will be enabled   
+        - ###### starting and ending years will be set automatically to the lowest and highest year value from the NetCDF file. the spatial extent of the NetCDF datafiles are shown on the maps    
             - ###### base location coordinates are set to the centre of the analysis area.     
- **3.** Set the base location and the desired time interval for base and analysis period
-     - ##### Remarks
+ **3.** Set the base location and the desired time interval for base and analysis period  
+ 
+   - ##### Remarks  
         - ###### setting values outside time interval will disable the Analyze button
         - ###### starting and ending month are considered as continuous time interval for each year. ex. Setting 3 and 5 means that data aggregation period will be March – May for each year. To work with full years set 1 and 12 for starting and ending months respectively
         - ###### the base location can be set interactively with mouse click or entering the values in input fields. Values outside the analysis area will disable the Analyze button. 
