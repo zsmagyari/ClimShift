@@ -1,7 +1,7 @@
 # ClimShift - a toolbox for climate shift analysis
-**Climate Shift analysis with R**  by *Zsolt **MAGYARI-SÁSKA**,  Adina-Eliza **CROITORU**, Csaba **HORVÁTH**, Ștefan **DOMBAY** from Babeș-Bolyai Universiy, Faculty of Geography, Romania*  
+**Climate Shift analysis with R**  by *Zsolt **MAGYARI-SÁSKA**,  Adina-Eliza **CROITORU**, Csaba **HORVÁTH**, Ștefan **DOMBAY** from Babeș-Bolyai University, Faculty of Geography, Romania*  
 
-Currently ClimShift is in early development stage working on E-OBS NetCDF dataset. 
+Currently ClimShift is in the early development stage working on E-OBS NetCDF dataset. 
  
 **Preliminary steps**
 
@@ -10,7 +10,7 @@ Currently ClimShift is in early development stage working on E-OBS NetCDF datase
   
   ![alt text](https://github.com/zsmagyari/ClimShift/blob/main/datafiles.png?raw=true)
   
-  **2.** R library preparation: the following external package have to be installed:  
+  **2.** R library preparation: the following external package must be installed:  
   
   - shiny            
   - shinyFiles            
