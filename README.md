@@ -32,7 +32,7 @@ runGitHub('ClimShift','zsmagyari', destdir="your_temporary_folder", ref="main")
 ```
 where ***your_temporary_folder*** is the full folder reference where you want to store the application.
 
-The toolbox will be launched inside your browser. Sample data is available in ***sampledata*** subfolder. There's a short demo video in the ***tutorial*** folder.
+The toolbox will be launched inside your browser. Sample data is available in ***sampledata*** subfolder. There's a short video tutorial at the end of this page.
 
 
 **Analysis steps**
@@ -64,6 +64,8 @@ The toolbox will be launched inside your browser. Sample data is available in **
      - ###### raster layers are saved in *grd/gri* format, area values in txt file
 
 
+https://github.com/zsmagyari/ClimShift/assets/10338264/c592e70d-348a-4680-811a-4da1de52ed0f
 
-https://github.com/zsmagyari/ClimShift/assets/10338264/766e52ac-0da2-4f61-97ee-5d8c8ed4a179
+
+
 
