@@ -13,7 +13,8 @@ Currently ClimShift is in the early development stage working on E-OBS NetCDF da
   **2.** R library preparation: the following external package must be installed:  
   
   - shiny            
-  - shinyFiles            
+  - shinyFiles     
+  - shinyjs       
   - leaflet          
   - ncdf4         
   - rgdal        
