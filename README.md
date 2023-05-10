@@ -63,3 +63,7 @@ The toolbox will be launched inside your browser. Sample data is available in **
      - ###### the names of saved files contain the file template name, the base location coordinates the base period year and moth and the analysis period year and month  
      - ###### raster layers are saved in *grd/gri* format, area values in txt file
 
+
+
+https://github.com/zsmagyari/ClimShift/assets/10338264/766e52ac-0da2-4f61-97ee-5d8c8ed4a179
+
