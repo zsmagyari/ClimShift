@@ -7,6 +7,7 @@ library(rgdal)
 library(raster)
 library(shinyWidgets)
 library(gsubfn)
+library(lubridate)
 
 #considered file postfix for minimum, maximum, mean temperature and for precipitation 
 #data file format fileprefix_postfix.nc where fileprefix have to be the same for all files
