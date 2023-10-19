@@ -7,6 +7,7 @@ library(raster)
 library(shinyWidgets)
 library(gsubfn)
 library(lubridate)
+library(tcltk)
 
 #considered file postfix for minimum, maximum, mean temperature and for precipitation 
 #data file format fileprefix_postfix.nc where fileprefix have to be the same for all files
@@ -427,7 +428,12 @@ server <- function(input, output, session) {
   
   
   observeEvent(input$folder, {
-    fld <<- choose.dir()
+    
+    if (exists("choose.dir"))
+       fld <<- choose.dir()
+    else
+      fld <<- tk_choose.dir()  
+    
     updateTextInput(session=session,inputId="fname", value="")
     if (!is.na(fld))
     {
@@ -525,7 +531,7 @@ server <- function(input, output, session) {
     lon <<- input$lon
     lat <<- input$lat
     progress <<- 0
-    name <<- paste(fld,"\\",input$fname,sep="")
+    name <<- paste(fld,"/",input$fname,sep="")
     progress <<- progress + 4
     updateProgressBar(session=session, id="pb", value=progress)
     loc <- extract(name,ab,input$bsyear,input$bfyear,input$bsmonth,input$bfmonth,lon,lat,session)
