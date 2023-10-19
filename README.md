@@ -16,8 +16,7 @@ Currently ClimShift is in the early development stage working on E-OBS NetCDF da
   - shinyFiles     
   - shinyjs       
   - leaflet          
-  - ncdf4         
-  - rgdal        
+  - ncdf4                 
   - raster      
   - lubridate  
   - shinyWidgets
