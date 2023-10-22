@@ -610,6 +610,8 @@ server <- function(input, output, session) {
   
   observeEvent(listenPeriod(),
                {
+                if (isTruthy(input$bsyear) & isTruthy(input$bfyear) & isTruthy(input$asyear) & isTruthy(input$afyear) & isTruthy(input$bsmonth) & isTruthy(input$bfmonth) & isTruthy(input$asmonth) & isTruthy(input$afmonth))
+                {
                  if (input$bsyear>=startYear & input$bsyear<=endYear & input$asyear>=startYear & input$asyear<=endYear &
                      input$bfyear>=startYear & input$bfyear<=endYear & input$afyear>=startYear & input$afyear<=endYear &
                      input$bsmonth>=startMonth & input$bsmonth<=endMonth & input$asmonth>=startMonth & input$asmonth<=endMonth &
@@ -622,6 +624,11 @@ server <- function(input, output, session) {
                  {
                    shinyjs::disable("banalyze")  
                  }
+                }
+                 else
+                 {
+                   shinyjs::disable("banalyze")  
+                 }                 
                })
   
 
